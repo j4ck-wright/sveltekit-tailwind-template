@@ -1,4 +1,4 @@
-# Sveltekit + Tailwind + TypeScript Template #
+# Sveltekit + Tailwind Template #
 For quick deployment of a Sveltekit + Tailwind project
 
 ```
